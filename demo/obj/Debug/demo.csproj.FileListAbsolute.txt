@@ -1,0 +1,13 @@
+C:\Users\admin\Documents\Visual Studio 2008\Projects\demo\demo\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2008\Projects\demo\demo\obj\Debug\demo.Properties.Resources.resources
+C:\Users\admin\Documents\Visual Studio 2008\Projects\demo\demo\obj\Debug\demo.csproj.GenerateResource.Cache
+C:\Users\admin\Documents\Visual Studio 2008\Projects\demo\demo\bin\Debug\demo.exe
+C:\Users\admin\Documents\Visual Studio 2008\Projects\demo\demo\bin\Debug\demo.pdb
+C:\Users\admin\Documents\Visual Studio 2008\Projects\demo\demo\obj\Debug\demo.login.resources
+C:\Users\admin\Documents\Visual Studio 2008\Projects\demo\demo\obj\Debug\demo.exe
+C:\Users\admin\Documents\Visual Studio 2008\Projects\demo\demo\obj\Debug\demo.pdb
+C:\Users\admin\Documents\Visual Studio 2008\Projects\demo\demo\obj\Debug\demo.Form1.resources
+C:\Users\admin\Documents\Visual Studio 2008\Projects\demo\demo\obj\Debug\demo.guidelogin.resources
+C:\Users\admin\Documents\Visual Studio 2008\Projects\demo\demo\obj\Debug\demo.reviewerlogin.resources
+C:\Users\admin\Documents\Visual Studio 2008\Projects\demo\demo\obj\Debug\demo.teamdetails.resources
+C:\Users\admin\Documents\Visual Studio 2008\Projects\demo\demo\obj\Debug\demo.review.resources
